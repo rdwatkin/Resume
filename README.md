@@ -1,2 +1,2 @@
 # Resume
-Online version of my resume with latex source
+Online version of my resume
